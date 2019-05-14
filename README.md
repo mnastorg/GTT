@@ -1,6 +1,6 @@
 # Rapport Groupe de Travail Thématique
 
-Cette page github retrace l'étendue de notre travail effectué lors du cours intitulé "Groupe de Travail Thématique" au sein de l'Université de Bordeaux. Vous retrouverez, ci-joint, les rapports au format python jupyter notebook (.ipynb). Github rend ces fichiers tout à fait lisible sur internet. Si cela ne fonctionne pas, un PDF regroupant les cinq fichiers est disponible en téléchargement. 
+Cette page github retrace l'étendue de notre travail effectué lors du cours intitulé "Groupe de Travail Thématique" au sein de l'Université de Bordeaux. Vous retrouverez, ci-joint, les rapports au format python jupyter notebook (.ipynb). Github rend ces fichiers tout à fait lisible sur internet. Nous vous conseillons cette option pour obtenir une plus belle présentation. Si cela ne fonctionne pas, un PDF ("RAPPORT_COMPELT.pdf") regroupant les cinq fichiers est disponible en téléchargement. 
 
 Le but de ce rapport est, principalement, de développer la méthode des différences finies à travers divers exemples, la finalité étant, d'appliquer de manière concrète l'équation dite d'élasticité linéaire. Il y a donc une véritable idée de progression entre les différents fichiers mis à disposition. 
 
